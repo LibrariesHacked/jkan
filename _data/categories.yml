@@ -1,3 +1,7 @@
 - name: Uncategorized
   logo: ''
   logo_credit: ''
+- name: Loans
+  logo: ''
+  logo_credit: ''
+  featured: true
