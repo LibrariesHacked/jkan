@@ -8,3 +8,7 @@
 - name: Vistors
   logo: ''
   logo_credit: ''
+- name: Bibliographic
+  logo: ''
+  logo_credit: ''
+  featured: true
