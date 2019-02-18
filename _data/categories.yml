@@ -8,7 +8,12 @@
 - name: Vistors
   logo: ''
   logo_credit: ''
+  featured: true
 - name: Bibliographic
+  logo: ''
+  logo_credit: ''
+  featured: true
+- name: Maps
   logo: ''
   logo_credit: ''
   featured: true
