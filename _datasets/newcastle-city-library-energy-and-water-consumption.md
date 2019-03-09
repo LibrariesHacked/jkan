@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Newcastle City Library energy and water consumption
+title: Newcastle Libraries City Library energy and water consumption
 organization: Newcastle City Council
 notes: ''
 resources:
@@ -18,7 +18,7 @@ resources:
     format: csv
 license: 'https://creativecommons.org/publicdomain/zero/1.0/'
 category:
-  - Locations
+  - Uncategorized
 maintainer: Newcastle Libraries
 maintainer_email: ' information@newcastle.gov.uk'
 ---
