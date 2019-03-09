@@ -2,11 +2,7 @@
 schema: default
 title: Newcastle Libraries catalogue
 organization: Newcastle City Council
-notes: >-
-  List of items and titles in library catalogue. See more info at
-  https://github.com/ToonLibraries/library-open-data/blob/master/stock/titles%20in%20catalogue.txt
-  and
-  https://github.com/ToonLibraries/library-open-data/blob/master/stock/items%20in%20catalogue.txt
+notes: List of items and titles in library catalogue.
 resources:
   - name: Items in catalogue 2017-03-22
     url: >-
