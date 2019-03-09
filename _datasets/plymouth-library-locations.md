@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Plymouth library locations
+title: Plymouth Libraries locations
 organization: Plymouth City Council
 notes: Location of libraries in Plymouth and information about them
 resources:
