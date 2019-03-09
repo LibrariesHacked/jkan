@@ -16,6 +16,18 @@ resources:
     url: >-
       https://datamillnorth.org/download/ncclibs-catalogue-items/23ea980b-e6ac-4f6e-864b-a09a62b4a4d7/itemsincatalogue050416.csv
     format: csv
+  - name: Titles in catalogue at 2017-03-17
+    url: >-
+      https://datamillnorth.org/download/ncclibs-catalogue-titles/57dbbad5-523f-4739-b318-41103e78f1a1/titlesincatalogue220317.csv
+    format: csv
+  - name: Titles in catalogue at 2016-09-16
+    url: >-
+      https://datamillnorth.org/download/ncclibs-catalogue-titles/3fb43b49-2608-46a2-8f0e-e455ccf22d6e/titlesincatalogue190916.csv
+    format: csv
+  - name: Titles in catalogue at 2016-03-26
+    url: >-
+      https://datamillnorth.org/download/ncclibs-catalogue-titles/c703c486-b253-4ea2-97c8-5d1a1abc7d98/titlesincatalogue220316.csv
+    format: csv
 license: 'https://creativecommons.org/publicdomain/zero/1.0/'
 category:
   - Bibliographic
