@@ -28,3 +28,8 @@
 - name: Funding
   logo: ''
   logo_credit: ''
+  featured: true
+- name: Computers
+  logo: ''
+  logo_credit: ''
+  featured: true
