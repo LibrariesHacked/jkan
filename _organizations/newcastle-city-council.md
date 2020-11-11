@@ -2,5 +2,5 @@
 schema: default
 title: Newcastle City Council
 description: Newcastle City Council Library Service publishing open data
-logo: 'https://pbs.twimg.com/profile_images/912268147213955073/8nByo2bb_400x400.jpg'
+logo: 'https://www.newcastle.gov.uk//sites/default/files/bg-logo.png'
 ---
